@@ -1,6 +1,6 @@
-# Air Quality PDF EstimationThis 
+# Air Quality PDF Estimation
 
-project implements Assignment-1: Learning Probability Density Functions using Roll-Number-Parameterized Non-Linear Models. It processes air quality data ($NO_2$), applies a custom non-linear transformation, and fits a Gaussian-style PDF to the resulting distribution.
+This project implements Assignment-1: Learning Probability Density Functions using Roll-Number-Parameterized Non-Linear Models. It processes air quality data ($NO_2$), applies a custom non-linear transformation, and fits a Gaussian-style PDF to the resulting distribution.
 
 # Project Overview
 
