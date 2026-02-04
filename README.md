@@ -1,5 +1,8 @@
 # Air Quality PDF Estimation
 
+Dataset: Consider NO2 as feature (x).
+Link: https://www.kaggle.com/datasets/shrutibhargava94/india-air-quality-data
+
 This project implements Assignment-1: Learning Probability Density Functions using Roll-Number-Parameterized Non-Linear Models. It processes air quality data ($NO_2$), applies a custom non-linear transformation, and fits a Gaussian-style PDF to the resulting distribution.
 
 # Project Overview
